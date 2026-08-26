@@ -281,7 +281,7 @@
     <div>
       <span class="logo"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M3 8h9a3 3 0 1 0-3-3"/><path d="M3 13h13a3 3 0 1 1-3 3"/><path d="M3 18h6"/></svg> Second Wind</span>
       <p>Online yoga for women and men 45 and up. Made in the USA, practiced in living rooms everywhere.</p>
-      <p><a href="mailto:hello@secondwindyoga.us">hello@secondwindyoga.us</a></p>
+      <p><a href="mailto:hello@secondwindyoga.fit">hello@secondwindyoga.fit</a></p>
     </div>
     <div>
       <ul>
